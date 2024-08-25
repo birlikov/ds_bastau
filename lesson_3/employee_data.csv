@@ -1,0 +1,22 @@
+EmployeeID,Name,Department,Salary,StartDate,Age
+1,John Doe,HR,50000,2015-06-01,29
+2,Jane Smith,Engineering,NaN,2018-08-15,35
+3,Chris Johnson,Sales,45000,2017-09-10,41
+4,Patricia Brown,Marketing,70000,NaN,39
+5,Michael Miller,Engineering,95000,2014-11-20,46
+6,Linda Clark,HR,52000,2016-05-12,34
+7,Kevin Lewis,Engineering,82000,2013-04-18,NaN
+8,Nancy Walker,Sales,50000,2019-10-05,30
+9,Karen Scott,Marketing,67000,2012-03-22,NaN
+10,Steven Turner,HR,55000,2016-11-01,45
+11,Mary White,Engineering,76000,2015-07-10,38
+12,James Harris,Sales,NaN,2017-03-30,50
+13,Emily Clark,Marketing,73000,2019-02-14,33
+14,Robert Young,HR,49000,2013-07-19,28
+15,Angela King,Engineering,98000,2011-08-25,42
+16,Matthew Green,Sales,62000,2015-05-21,37
+17,Donna Hill,Marketing,66000,2018-07-30,40
+18,Christopher Baker,HR,52000,2014-09-03,47
+19,Jessica Adams,Engineering,81000,2019-11-11,32
+20,Brian Harris,Sales,61000,2016-01-12,31
+
